@@ -1,0 +1,1 @@
+- [Libreboot Is Right About CPU Microcode](https://youtu.be/_iHhw8YWABo)
